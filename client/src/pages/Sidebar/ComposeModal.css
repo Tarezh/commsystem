@@ -1,0 +1,27 @@
+/* ComposeModal.css */
+
+.compose-modal {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.compose-modal h2 {
+  margin-bottom: 20px;
+}
+
+.compose-modal button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.compose-modal button:hover {
+  background-color: #0056b3;
+}

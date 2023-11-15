@@ -1,0 +1,30 @@
+/* MailListComponent.css */
+
+.mail-list-container {
+    margin: 0 16%; /* Adjust margin as needed */
+  }
+  
+  .mail-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .mail-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .sender {
+    color: #007bff; /* Blue color for sender */
+  }
+  
+  .recipient {
+    color: #28a745; /* Green color for recipient */
+  }
+  
+  .subject {
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
