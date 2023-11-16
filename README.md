@@ -3,7 +3,7 @@ This is a Full Stack MERN project which has following functionalities implemente
 1. Google OAuth integration: Enable users to log in using Google OAuth.
 2. Communication details: Allow users to view their communication history, including sent and
 received emails.
-3. Send email: Implement an endpoint to send emails using the Postmarkapp.com API.
+3. Send email: Implemented an endpoint to send emails using the Postmarkapp.com API.
 
 To setup the project follow these steps:
 1. Clone this repository to your local computer.
