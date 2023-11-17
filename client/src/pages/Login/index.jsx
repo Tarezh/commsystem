@@ -20,7 +20,7 @@ function Login() {
 					<p className={styles.text}>or</p>
 					<button className={styles.google_btn} onClick={googleAuth}>
 						<img src="./images/google.png" alt="google icon" />
-						<span>Sing in with Google</span>
+						<span>Sign in with Google</span>
 					</button>
 					<p className={styles.text}>
 						New Here ? <Link to="/signup">Sign Up</Link>
