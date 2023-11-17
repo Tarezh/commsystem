@@ -24,10 +24,14 @@ Google OAuth Integration
 Login:
 
 Step 1: Click on Sign in
-![image](https://github.com/Tarezh/commsystem/assets/100041569/fd91718e-b58a-4454-a0b6-5d91753e960e)
+
+![image](https://github.com/Tarezh/commsystem/assets/100041569/b4135a27-a71b-49c7-8bdc-9c1f819f37c5)
+
 
 Step 2: Choose an email
-![image](https://github.com/Tarezh/commsystem/assets/100041569/7608aab7-9639-4217-8e5f-ad48582dcae3)
+
+![image](https://github.com/Tarezh/commsystem/assets/100041569/59034ed4-5151-46e8-9927-17e9d5810784)
+
 
 Main Page:
 
