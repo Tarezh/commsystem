@@ -20,8 +20,8 @@ To setup the project follow these steps:
 
 END TO END WORKFLOW OF THE PROJECT:
 
----Log in Form---
-Google OAuth Integration
+---Log in Form--- 
+(Google OAuth Integration)
 
 Login:
 
@@ -36,6 +36,7 @@ Step 2: Choose an email
 
 
 Main Page:
+(Communication Details)
 
 Fetches from MongoDB database and displays it at the frontend. All the mails displayed is fetched from backend.
 
@@ -51,6 +52,7 @@ Compose Mail Button:
 ![image](https://github.com/Tarezh/commsystem/assets/100041569/92ab029b-a155-4a9b-9e33-43acb4e032b1)
 
 Here you can put the address of receiver, subject and message of the mail -> click Send
+(Send Mail)
 
 ![image](https://github.com/Tarezh/commsystem/assets/100041569/cab7deea-63b1-4771-9013-e797f4df1f4c)
 
