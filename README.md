@@ -15,6 +15,7 @@ To setup the project follow these steps:
 7. Client -> index.js is the entry point and App.js contains all the routes and also check if user is authenticated or not.
 8. Server -> server.js is the entry point for the server, db.js has the necessary database connection, and routes folder contains the routes to different endpoints.
 9. Change the CORS setting so to avoid CORS error, here it is configured to take request from http://localhost:3000
+    
 (Postmarkapp.com API allowed only work email login, so I logged in using a Temp Mail, which had domain @ikanid. Also the API allows the user to send email to the same domain to which it had logged in. Like I can send mail only to @ikanid domain)
 
 END TO END WORKFLOW OF THE PROJECT:
