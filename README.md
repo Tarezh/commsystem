@@ -37,7 +37,8 @@ Main Page:
 
 Fetches from MongoDB database and displays it at the frontend. All the mails displayed is fetched from backend.
 
- ![image](https://github.com/Tarezh/commsystem/assets/100041569/523f8c5b-12de-417c-98fe-1e0c1d65933f)
+![image](https://github.com/Tarezh/commsystem/assets/100041569/0f632576-4a35-45b3-aa80-c61f365db8b7)
+
  
 MongoDB collection:
 
